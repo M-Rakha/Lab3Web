@@ -35,6 +35,20 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 
 Kemudian lihat hasilnya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/8603c389fd644ef7a66e0bdba3f236b7fe664162/Cuplikan%20layar%202025-10-07%20185900.png)
+
+4. Membuat Tabel
+Buat file baru dengan nama lab3_tabel.html seperti berikut.
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
+
+
+
+
+
+
+
+
+
 
 
 
