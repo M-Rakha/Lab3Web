@@ -74,7 +74,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 Kemudian, lihat hasilnya :
 
-
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/15495b9cd4463061509713d55bfa78f791029493/Cuplikan%20layar%202025-10-07%20111205.png)
 
 
 
