@@ -31,6 +31,10 @@ Lalu buktikan hasilnya :
 3. Membuat Description List
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/8603c389fd644ef7a66e0bdba3f236b7fe664162/code2.3.png)
+
+Kemudian lihat hasilnya :
+
 
 
 
