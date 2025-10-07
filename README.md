@@ -41,6 +41,10 @@ Kemudian lihat hasilnya :
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/65ced938969cc60bc7dee07fa47942c4fbdddbe5/2.png)
+
+Llau lihat hasilnya :
+
 
 
 
