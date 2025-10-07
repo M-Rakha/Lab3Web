@@ -22,5 +22,12 @@ Hasilnya :
 2. Membuat Unorderd List
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/fb7154397e046ab5ad2b51b4dc29e83c50c879e9/Cuplikan%20layar%202025-10-07%20103927.png)
+
+Lalu buktikan hasilnya :
+
+
+
+
 
 
