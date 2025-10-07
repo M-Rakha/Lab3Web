@@ -37,6 +37,7 @@ Kemudian lihat hasilnya :
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/8603c389fd644ef7a66e0bdba3f236b7fe664162/Cuplikan%20layar%202025-10-07%20185900.png)
 
+# MEMBUAT TABEL
 4. Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
@@ -50,6 +51,9 @@ Llau lihat hasilnya :
 5. Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/e6afb60f4b56df41d49640205c53bfa8ab82855d/2.1png.png)
+
+Kemudian lihat hasilnya :
 
 
 
