@@ -61,7 +61,9 @@ Kemudian lihat hasilnya :
 6. Buat file baru dengan nama lab3_form.html seperti berikut.
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/160e18dcbd9e04c69a6f6949fab1cbb90b98a929/Cuplikan%20layar%202025-10-07%20110713.png)
 
+Lalu lihat hasilnya :
 
 
 
