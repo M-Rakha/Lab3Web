@@ -26,6 +26,14 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 
 Lalu buktikan hasilnya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/fb7154397e046ab5ad2b51b4dc29e83c50c879e9/Cuplikan%20layar%202025-10-07%20103938.png)
+
+3. Membuat Description List
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+
+
+
+
 
 
 
