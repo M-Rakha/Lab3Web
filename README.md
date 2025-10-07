@@ -70,6 +70,10 @@ Lalu lihat hasilnya :
 7. Menambahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/15495b9cd4463061509713d55bfa78f791029493/2.2png.png)
+
+Kemudian, lihat hasilnya :
+
 
 
 
