@@ -65,6 +65,13 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 Lalu lihat hasilnya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/160e18dcbd9e04c69a6f6949fab1cbb90b98a929/Cuplikan%20layar%202025-10-07%20110727.png)
+
+7. Menambahkan Style pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+
+
+
 
 
 
