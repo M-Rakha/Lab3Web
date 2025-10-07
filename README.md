@@ -55,8 +55,11 @@ Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowsp
 
 Kemudian lihat hasilnya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab3Web/e6afb60f4b56df41d49640205c53bfa8ab82855d/Cuplikan%20layar%202025-10-07%20110030.png)
 
-
+# MEMBUAT FORM
+6. Buat file baru dengan nama lab3_form.html seperti berikut.
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut :
 
 
 
